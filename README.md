@@ -5,7 +5,7 @@
 ---
 The **“Programming Fundamentals”** course extends the previously gained basic coding skills from the **“Programming Basics”**course at the Software University and adds additional **knowledge** and **practical programming skills.**
 The course covers source control systems, **Git** and **GitHub** for team collaboration, understanding the basic **data types** in programming, extracting pieces of code into **methods** with parameters and return value, using the **debugger** to trace the program execution and find bugs, processing sequences of elements using **arrays** and **lists**, using  **collections**, working with matrices for processing tabular data, working with **dictionaries** to map keys to values, using **strings** for text processing, and the basics of working with **classes** and **objects**, using API classes and defining simple classes.
-## <b>Short Programming Fundamentals</b> Exercises and Exams. 
+## <b>(Short) Programming Fundamentals</b> Exercises and Exams. 
 1. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Short/Labs%20and%20Exercises/03.Lab-CSharp-Intro-and-Basic-Syntax" > C# Intro and basic syntax </a> 
 2. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Short/Labs%20and%20Exercises/04.Exercises-Csharp-Intro-and-Basic-Syntax" > C# Intro and basic syntax - Exercises </a> 
 3. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Short/Labs%20and%20Exercises/05.Lab-CSharp-Conditional-Statements-and-Loops" > C# Conditional statements and loops </a> 
@@ -36,7 +36,7 @@ The course covers source control systems, **Git** and **GitHub** for team collab
 28. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Short/Exams/Programming-Fundamentals%20Exam-26-February-2017"> PRACTICAL EXAM - 26-February-2017 </a>
 29. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Short/Exams/Programming-Fundamentals-Exam-05-November-2017"> PRACTICAL EXAM - 05-November-2017 </a>
 
-## <b>Extended Programming Fundamentals</b> Exercises and Exams. 
+## <b>(Extended) Programming Fundamentals</b> Exercises and Exams. 
 1. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Extended/Labs%20and%20Exercises/02.Lab-Data%20Types-Variables-and-Methods"> Data Types and Variables </a>
 2. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Extended/Labs%20and%20Exercises/03.Exercise-Data%20Types-Variables-and-Methods"> Data Types and Variables - Exercises </a>
 3. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Extended/Labs%20and%20Exercises/04.Lab-Arrays-and-Lists"> Arrays and Lists</a>
