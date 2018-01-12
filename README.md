@@ -37,14 +37,14 @@ The course covers source control systems, **Git** and **GitHub** for team collab
 29. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Short/Exams/Programming-Fundamentals-Exam-05-November-2017"> PRACTICAL EXAM - 05-November-2017 </a>
 
 ## <b>Extended Programming Fundamentals</b> Exercises/labs and Exams. 
-8. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Extended/Labs%20and%20Exercises/02.Lab-Data%20Types-Variables-and-Methods"> Data Types and Variables </a>
-10. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Extended/Labs%20and%20Exercises/03.Exercise-Data%20Types-Variables-and-Methods"> Data Types and Variables - Exercises </a>
-11. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Extended/Labs%20and%20Exercises/04.Lab-Arrays-and-Lists"> Arrays and Lists</a>
-12. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Extended/Labs%20and%20Exercises/05.Exercise-Arrays-and-Lists"> Arrays and Lists - Exercises </a>
-14. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Extended/Labs%20and%20Exercises/06.Lab-Strings-and-Regex"> Strings Processing and REGEX </a>
-15. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Extended/Labs%20and%20Exercises/07.Exercise-Strings-Regular-Expression"> Strings Processing and REGEX - Exercises </a>
-16. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Extended/Labs%20and%20Exercises/09.Exercises-Dictionaries-and-LINQ"> Dictionaries and LINQ - Exercises </a>
-41. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Extended/Exams/Prog-Fundamentals%20Extended-Exam-09-May-2017"> PRACTICAL EXAM (Extended)- 09-May-2017 </a>
-42. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Extended/Exams/Prog-Fundamentals-Extended%20Exam-10-December-2017"> PRACTICAL EXAM (Extended) - 10-December-2017 </a>
-43. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Extended/Exams/Prog-Fundamentals-Extended-Exam-20-August-2017"> PRACTICAL EXAM (Extended) - 20-August-2017 </a>
-44. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Extended/Exams/Progr-Fundamentals-Extended-Exam-04-Sept-2017"> PRACTICAL EXAM (Extended) - 04-Sept-2017 </a>
+1. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Extended/Labs%20and%20Exercises/02.Lab-Data%20Types-Variables-and-Methods"> Data Types and Variables </a>
+2. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Extended/Labs%20and%20Exercises/03.Exercise-Data%20Types-Variables-and-Methods"> Data Types and Variables - Exercises </a>
+3. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Extended/Labs%20and%20Exercises/04.Lab-Arrays-and-Lists"> Arrays and Lists</a>
+4. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Extended/Labs%20and%20Exercises/05.Exercise-Arrays-and-Lists"> Arrays and Lists - Exercises </a>
+5. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Extended/Labs%20and%20Exercises/06.Lab-Strings-and-Regex"> Strings Processing and REGEX </a>
+6. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Extended/Labs%20and%20Exercises/07.Exercise-Strings-Regular-Expression"> Strings Processing and REGEX - Exercises </a>
+7. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Extended/Labs%20and%20Exercises/09.Exercises-Dictionaries-and-LINQ"> Dictionaries and LINQ - Exercises </a>
+8. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Extended/Exams/Prog-Fundamentals%20Extended-Exam-09-May-2017"> PRACTICAL EXAM (Extended)- 09-May-2017 </a>
+9. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Extended/Exams/Prog-Fundamentals-Extended%20Exam-10-December-2017"> PRACTICAL EXAM (Extended) - 10-December-2017 </a>
+10. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Extended/Exams/Prog-Fundamentals-Extended-Exam-20-August-2017"> PRACTICAL EXAM (Extended) - 20-August-2017 </a>
+11. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Extended/Exams/Progr-Fundamentals-Extended-Exam-04-Sept-2017"> PRACTICAL EXAM (Extended) - 04-Sept-2017 </a>
