@@ -5,16 +5,12 @@
 ---
 The **“Programming Fundamentals”** course extends the previously gained basic coding skills from the **“Programming Basics”**course at the Software University and adds additional **knowledge** and **practical programming skills.**
 The course covers source control systems, **Git** and **GitHub** for team collaboration, understanding the basic **data types** in programming, extracting pieces of code into **methods** with parameters and return value, using the **debugger** to trace the program execution and find bugs, processing sequences of elements using **arrays** and **lists**, using  **collections**, working with matrices for processing tabular data, working with **dictionaries** to map keys to values, using **strings** for text processing, and the basics of working with **classes** and **objects**, using API classes and defining simple classes.
-## <b>Short Fundamentals</b> Exercises and labs.
-1. <a href="https://github.com/Tuscann/Programming-Fundamentals-2017/tree/master/01.Short%20Fundamentals/01.RESOURCES" > RESOURCES </a> 
-2. <a href="https://github.com/Tuscann/Programming-Fundamentals-2017/tree/master/01.Short%20Fundamentals/02.COURSE%20OVERVIEW" > COURSE OVERVIEW </a> 
-3. <a href="https://github.com/Tuscann/Programming-Fundamentals-2017/tree/master/01.Short%20Fundamentals/03.C%23%20INTRO%20AND%20BASIC%20SYNTAX" > C# INTRO AND BASIC SYNTAX </a> 
-4. <a href="https://github.com/Tuscann/Programming-Fundamentals-2017/tree/master/01.Short%20Fundamentals/04.C%23%20BASIC%20SYNTAX%20-%20EXERCISES" > C# BASIC SYNTAX - EXERCISES </a> 
-5. <a href="https://github.com/Tuscann/Programming-Fundamentals-2017/tree/master/01.Short%20Fundamentals/05.C%23%20CONDITIONAL%20STATEMENTS%20AND%20LOOPS" >C# CONDITIONAL STATEMENTS AND LOOPS </a> 
-6. <a href="https://github.com/Tuscann/Programming-Fundamentals-2017/tree/master/01.Short%20Fundamentals/06.C%23%20CONDITIONAL%20STATEMENTS%20AND%20LOOPS%20-%20EXERCISES" > C# CONDITIONAL STATEMENTS AND LOOPS - EXERCISES </a>
-7. <a href="https://github.com/Tuscann/Programming-Fundamentals-2017/tree/master/01.Short%20Fundamentals/07.C%23%20BASICS%20-%20MORE%20EXERCISES"> C# BASICS - MORE EXERCISES </a>
+## <b>Short Fundamentals</b> Exercises/labs and Exams. 
+3. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Short/Labs%20and%20Exercises/03.Lab-CSharp-Intro-and-Basic-Syntax" > C# Intro and basic syntax - Lab </a> 
+4. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Short/Labs%20and%20Exercises/04.Exercises-Csharp-Intro-and-Basic-Syntax" > C# Intro and basic syntax - Exercises </a> 
+5. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Short/Labs%20and%20Exercises/05.Lab-CSharp-Conditional-Statements-and-Loops" > C# Conditional statements and loops - Lab </a> 
+6. <a href="https://github.com/TonchoLozev/Course-Programming-Fundamentals/tree/master/PF-Short/Labs%20and%20Exercises/06.Exercises-CSharp-Conditional-Statements-and-Loops" > C# Conditional statements and loops - Exercises </a>
 8. <a href="https://github.com/Tuscann/Programming-Fundamentals-2017/tree/master/01.Short%20Fundamentals/08.GIT%20AND%20GITHUB"> GIT AND GITHUB </a>
-9. <a href="https://github.com/Tuscann/Programming-Fundamentals-2017/tree/master/01.Short%20Fundamentals/09.Git%20and%20Github%20-%20Exercises"> GIT AND GITHUB - EXERCISES </a>
 10. <a href="https://github.com/Tuscann/Programming-Fundamentals-2017/tree/master/01.Short%20Fundamentals/10.DATA%20TYPES%20AND%20VARIABLES"> DATA TYPES AND VARIABLES </a>
 11. <a href="https://github.com/Tuscann/Programming-Fundamentals-2017/tree/master/01.Short%20Fundamentals/11.DATA%20TYPES%20AND%20VARIABLES%20-%20EXERCISES"> DATA TYPES AND VARIABLES - EXERCISES </a>
 12. <a href="https://github.com/Tuscann/Programming-Fundamentals-2017/tree/master/01.Short%20Fundamentals/12.DATA%20TYPES%20AND%20VARIABLES%20-%20MORE%20EXERCISES"> DATA TYPES AND VARIABLES - MORE EXERCISES</a>
