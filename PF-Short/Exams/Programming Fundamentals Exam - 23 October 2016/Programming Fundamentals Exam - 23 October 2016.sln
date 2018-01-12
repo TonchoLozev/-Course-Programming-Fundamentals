@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Charity-Marathon", "01.Charity-Marathon\01.Charity-Marathon.csproj", "{B9C3F620-A42F-441C-BE79-FDB585363A15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Ladybugs", "02.Ladybugs\02.Ladybugs.csproj", "{59C2C695-D811-47D7-AB95-DA19EE3474A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9C3F620-A42F-441C-BE79-FDB585363A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C3F620-A42F-441C-BE79-FDB585363A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C3F620-A42F-441C-BE79-FDB585363A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C3F620-A42F-441C-BE79-FDB585363A15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59C2C695-D811-47D7-AB95-DA19EE3474A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59C2C695-D811-47D7-AB95-DA19EE3474A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59C2C695-D811-47D7-AB95-DA19EE3474A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59C2C695-D811-47D7-AB95-DA19EE3474A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55CA5C0D-D8CF-4217-BF88-0BCA484392A8}
+	EndGlobalSection
+EndGlobal
